@@ -31,4 +31,9 @@ Figure 2 shows rural cities generated the least revenue and urban cities generat
 
 ## Summary
 
-Removing 9th grade math and reading scores from Thomas High School negatively impacted its ranking among other schools and had a ripple effect on district score categories that THS fell into.
+Based on the analysis, PyBer should consider the following recommendations for each city type:
+1. Decrease the fare per ride in rural cities to make rides more affordable.
+2. Run promotions in suburban and urban cities in January to increase revenue.
+3. 
+
+
