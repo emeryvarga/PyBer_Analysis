@@ -2,12 +2,12 @@
 
 ## Overview
 
-This analysis provides insights to the school board on which strategic decisions at the school and district level will be based on. More specifically, this report analyzes school and district metrics before and after the math and reading scores for Thomas High School (THS) were omitted due to academic dishonesty.
+This exploratory analysis showcases the differences in ride-sharing data among the different city types to help PyBer improve access to ride-sharing services, as well asdetermine affordability for underserved neighborhoods.
 
 ## Resources
 
-* [schools_complete.csv](Resources/schools_complete.csv)
-* [students_complete.csv](Resources/students_complete.csv)
+* [city_data.csv](Resources/city_data.csv)
+* [ride_data.csv](Resources/ride_data.csv)
 
 ## Development Environment
 
