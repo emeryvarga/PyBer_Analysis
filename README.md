@@ -19,6 +19,13 @@ This exploratory analysis showcases the differences in ride-sharing data among t
 
 ## Results
 
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
+As seen in Figure 1 below, urban cities have the highest number of total rides compared to suburban and rural cities. Furthermore, there is a negative correlation between average fare per ride
+
+
+![PyBer_summary_df](analysis/PyBer_summary_df.png)
+*Figure 1: Ride-sharing summary by city type*
 
 ## Summary
 
