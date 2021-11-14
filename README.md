@@ -34,6 +34,6 @@ Figure 2 shows rural cities generated the least revenue and urban cities generat
 Based on the analysis, PyBer should consider the following recommendations for each city type:
 1. Decrease the fare per ride in rural cities to make rides more affordable.
 2. Run promotions in suburban and urban cities in January to increase revenue.
-3. 
+3. Offer a sign-on bonus to new drivers in rural cities to increase total drivers, decrease waiting times, and attact more riders in rural cities.
 
 
