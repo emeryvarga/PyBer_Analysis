@@ -2,7 +2,7 @@
 
 ## Overview
 
-This exploratory analysis showcases the differences in ride-sharing data among the different city types to help PyBer improve access to ride-sharing services, as well asdetermine affordability for underserved neighborhoods.
+This exploratory analysis showcases the differences in ride-sharing data among the different city types to help PyBer improve access to ride-sharing services, as well as determine affordability for underserved neighborhoods.
 
 ## Resources
 
