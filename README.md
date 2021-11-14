@@ -24,6 +24,11 @@ The number of total rides has a positive correlation with total drivers for each
 ![PyBer_summary_df](analysis/PyBer_summary_df.png)
 *Figure 1: Ride-sharing summary by city type*
 
+Figure 2 shows rural cities generated the least revenue and urban cities generated the most revenue from January to April of 2019.
+
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
+*Figure 2: Total revenue bu city type*
+
 ## Summary
 
 Removing 9th grade math and reading scores from Thomas High School negatively impacted its ranking among other schools and had a ripple effect on district score categories that THS fell into.
